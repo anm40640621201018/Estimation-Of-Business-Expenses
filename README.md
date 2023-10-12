@@ -10,3 +10,5 @@ Dashboard 3 - https://public.tableau.com/views/EstimationofBusinessExpense/Expen
 Story 1 link - https://public.tableau.com/views/EstimationofBusinessExpense/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story 2 link - https://public.tableau.com/views/EstimationofBusinessExpense/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Video Demonstrations - https://public.tableau.com/views/EstimationofBusinessExpense/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
